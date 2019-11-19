@@ -9,7 +9,7 @@ class Person
   end 
   def =job(job)
   attr_writer :@job = job 
-  
+end 
   
   
 end
