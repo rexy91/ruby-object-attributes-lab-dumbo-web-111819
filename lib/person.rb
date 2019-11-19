@@ -4,6 +4,6 @@ class Person
   end 
   
   def name 
-    return self.name 
+    name 
   end 
 end 
