@@ -7,4 +7,9 @@ class Person
   def name 
     @name
   end 
-end 
+  def =job(job)
+  attr_writer :@job = job 
+  
+  
+  
+end
