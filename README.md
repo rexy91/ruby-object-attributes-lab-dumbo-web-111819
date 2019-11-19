@@ -11,7 +11,6 @@
 This lab is all about using instance variables within a class to create methods that represent attributes or properties of an object.
 
 ## Instructions
-
 Get started with this lab by opening it with `learn open` and running `learn`.
 
 ## `Dog` and `lib/dog.rb`
